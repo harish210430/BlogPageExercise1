@@ -1,0 +1,127 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* # Our Style */
+body{
+    line-height: 1.5;
+}
+main{
+    width: 1000px;
+    margin: 40px auto;
+}
+.header{
+    background-color: rgb(8, 8, 44);
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(233, 169, 7);
+    font-family: sans-serif;
+}
+.Span{
+    color: #fff;
+    padding: 15px;
+    background-color: brown;
+    border-radius: 15px;
+    text-transform: uppercase;
+    font-style: oblique;
+    font-weight: bold;
+}
+nav {
+    text-align: right;
+}
+nav a{
+    color: #fff;
+    padding: 10px;
+}
+.section{
+    
+}
+.container{
+    width: 430px;
+    padding:  50px 12px;
+    /* font-size: 17px; */
+    font-family: sans-serif;
+    display: inline-block;
+    
+}
+img{
+    width: 430px;
+}
+h2{
+    /* text-align: center; */
+    color: rgb(2, 2, 23);
+    font-size: 27px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+article p{
+    text-align: start;
+    font-size: 20px;
+}
+footer{
+    background-color: aquamarine;
+    padding: 30px;
+    margin-top: 50px;
+}
+footer a{
+    color: #020009;
+    font-size: 15px;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 10px;
+    
+}
+.para{
+    color: rgb(99, 97, 97);
+}
+.link{
+    text-align: right;
+}
