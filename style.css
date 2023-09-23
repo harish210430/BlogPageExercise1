@@ -66,14 +66,14 @@ h1{
     font-family: sans-serif;
 }
 .Span{
-    	color: #fff;
-    	padding: 15px;
-    	background-color: brown;
-    	border-radius: 15px;
-    	text-transform: uppercase;
-    	font-style: oblique;
-    	font-weight: bold;
-	display: inline-block;
+    color: #fff;
+    padding: 15px;
+    background-color: brown;
+    border-radius: 15px;
+    text-transform: uppercase;
+    font-style: oblique;
+    font-weight: bold;
+    display: inline-block;
 }
 nav {
     text-align: right;
