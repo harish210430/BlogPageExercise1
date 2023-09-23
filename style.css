@@ -80,7 +80,7 @@ h1{
     text-align: right;
 }
 nav a{
-    color: #fff;
+    color: aquamarine;
     margin-left: 20px;
    text-transform: uppercase;
    text-decoration: none;
@@ -109,11 +109,11 @@ article p{
      font-size: 20px;
 }
 footer{
-    background-color: aquamarine;
+    background-color: rgb(149, 148, 148);
     padding: 30px;
 }
 footer a{
-    color: #020009;
+    color: aquamarine;
     font-size: 15px;
     font-family: sans-serif;
     text-decoration: none;
@@ -121,7 +121,7 @@ footer a{
     
 }
 .para{
-    color: rgb(99, 97, 97);
+    color: rgb(43, 40, 40);
 }
 .link{
     text-align: right;
